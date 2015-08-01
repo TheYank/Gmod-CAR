@@ -194,7 +194,6 @@ end
  timer.Create( "ScoreTimer", 600, 0, function()
 	CopScore = CopScore + 1
 	NetExample2()
-	game.CleanUpMap( false , { "ctf_flag" , "info_player_red" , "info_player_blue" } )
  end)
 
  hook.Add("Think", "FlagCheck", function()
@@ -218,6 +217,7 @@ for _, flag in ipairs(ents.FindByClass("weapon_flag")) do
             for k,v in pairs(player.GetAll()) do
                v:Kill();
             end
+			game.CleanUpMap( false , { "ctf_flag" , "info_player_red" , "info_player_blue" } )
             flagent:SetPos( setpoint + Vector ( 40, 5, 0) )
 			timer.Start( "FreezeTimer" )
 			timer.Start( "UnfreezeTimer" )
