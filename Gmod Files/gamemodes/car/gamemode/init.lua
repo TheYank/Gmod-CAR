@@ -194,6 +194,7 @@ end
  timer.Create( "ScoreTimer", 600, 0, function()
 	CopScore = CopScore + 1
 	NetExample2()
+	game.CleanUpMap( false , { "ctf_flag" , "info_player_red" , "info_player_blue" } )
  end)
 
  hook.Add("Think", "FlagCheck", function()

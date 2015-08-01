@@ -2,7 +2,7 @@
 {
 	"base"		"base"
 	"title"		"Cops and Robbers"
-	"version"	"1.0.0"
+	"version"	"0.0.1"
 	"up_date"	"08/1/2015"
 	"menusystem"	"1"
 	
