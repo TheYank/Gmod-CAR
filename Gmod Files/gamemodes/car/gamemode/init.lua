@@ -4,7 +4,9 @@ AddCSLuaFile( "shared.lua" )
 include( "shared.lua" )
 include( "player.lua" )
 
+
 function GM:PlayerConnect( name, ip )
+
 	print("Player: " .. name .. ", has joined the game.")
 end
 
@@ -105,7 +107,6 @@ function team_1( ply )
 	 ply:Spawn()
 	 ply:SetGamemodeTeam( 1 )
 	 ply:SetModel ("models/player/riot.mdl")
-	 ply:Give( "grapplehook" )
 	 
  end 
  
@@ -230,7 +231,5 @@ for _, flag in ipairs(ents.FindByClass("weapon_flag")) do
    end
 end)
 
-
-
- concommand.Add( "team_1", team_1 ) --Add the command to set the players team to team 1 
- concommand.Add( "team_2", team_2 ) --Add the command to set the players team to team 2 
+concommand.Add( "team_1", team_1 ) --Add the command to set the players team to team 1 
+concommand.Add( "team_2", team_2 ) --Add the command to set the players team to team 2 
