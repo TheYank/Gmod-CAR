@@ -4,7 +4,9 @@ AddCSLuaFile( "shared.lua" )
 include( "shared.lua" )
 include( "player.lua" )
 
+
 function GM:PlayerConnect( name, ip )
+
 	print("Player: " .. name .. ", has joined the game.")
 end
 
@@ -105,7 +107,6 @@ function team_1( ply )
 	 ply:Spawn()
 	 ply:SetGamemodeTeam( 1 )
 	 ply:SetModel ("models/player/riot.mdl")
-	 ply:Give( "grapplehook" )
 	 
  end 
  
@@ -126,6 +127,13 @@ for k,v in ipairs(ents.FindByClass("info_player_blue")) do
 copFlag:SetPos(v:GetPos() + Vector ( 40, 5, 0))
 end
 copFlag:Spawn( )
+end
+
+ function GM:InitPostEntity( )
+local robVan = ents.Create( "car_van" )
+robVan:SetPos(v:GetPos() + Vector ( 40, 40, 0))
+end
+robVan:Spawn( )
 end
 
 function GM:PlayerDeath( victim, inflictor, attacker )
@@ -230,7 +238,5 @@ for _, flag in ipairs(ents.FindByClass("weapon_flag")) do
    end
 end)
 
-
-
- concommand.Add( "team_1", team_1 ) --Add the command to set the players team to team 1 
- concommand.Add( "team_2", team_2 ) --Add the command to set the players team to team 2 
+concommand.Add( "team_1", team_1 ) --Add the command to set the players team to team 1 
+concommand.Add( "team_2", team_2 ) --Add the command to set the players team to team 2 

@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/LoneWolfiesCars/merc_sprinter_swb/tire_tread"
+	"$bumpmap" "models/LoneWolfiesCars/shared/skin_nm"
+	"$blendtintbybasealpha" 1
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.1"	
+	"$phongfresnelranges"	"[1 1 1]"
+	"$nodecal" "1"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+
+}
