@@ -2,8 +2,18 @@
 {
 	"base"		"base"
 	"title"		"Cops and Robbers"
-	"maps"		"^car_"
+	"version"	"1.0.0"
 	"menusystem"	"1"
+	
+	"maps"		"^car_"
+	
+	"author_name"	"DerpSquad"
+	"author_url"	"https://github.com/TheYank/Gmod-CAR"
+	
+	"icon"	""
+	"info"	"The latest version of this gamemode can be found at: https://github.com/TheYank/Gmod-CAR"
+	"hide"	"0"
+	
 	
 	"settings"
 	{
