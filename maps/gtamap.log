@@ -1,0 +1,1954 @@
+
+
+
+<<<<<<< HEAD
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.vmf
+=======
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Yannick\Documents\CAR-GMod\maps\gtamap.vmf
+>>>>>>> origin/master
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+<<<<<<< HEAD
+writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.prt...Building visibility clusters...
+=======
+writing C:\Users\Yannick\Documents\CAR-GMod\maps\gtamap.prt...Building visibility clusters...
+>>>>>>> origin/master
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+<<<<<<< HEAD
+done (0) (36129 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 416 texinfos to 226
+Reduced 12 texdatas to 11 (263 bytes to 250)
+Writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.bsp
+=======
+done (0) (36257 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 420 texinfos to 233
+Reduced 12 texdatas to 11 (263 bytes to 250)
+Writing C:\Users\Yannick\Documents\CAR-GMod\maps\gtamap.bsp
+>>>>>>> origin/master
+0 seconds elapsed
+
+
+
+<<<<<<< HEAD
+8 threads
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+ 468 portalclusters
+1314 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1487 visible clusters (0.85%)
+Total clusters visible: 175473
+Average clusters visible: 374
+Building PAS...
+Average clusters audible: 467
+visdatasize:58574  compressed from 59904
+writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+20 seconds elapsed
+=======
+4 threads
+reading c:\users\yannick\documents\car-gmod\maps\gtamap.bsp
+reading c:\users\yannick\documents\car-gmod\maps\gtamap.prt
+ 486 portalclusters
+1369 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1944 visible clusters (1.05%)
+Total clusters visible: 185440
+Average clusters visible: 381
+Building PAS...
+Average clusters audible: 485
+visdatasize:62675  compressed from 62208
+writing c:\users\yannick\documents\car-gmod\maps\gtamap.bsp
+1 minute, 3 seconds elapsed
+>>>>>>> origin/master
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+<<<<<<< HEAD
+Loading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+2832 faces
+2562101 square feet [368942592.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2832 patches before subdivision
+zero area child patch
+82820 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5108200, max 978
+transfer lists:  39.0 megs
+=======
+Loading c:\users\yannick\documents\car-gmod\maps\gtamap.bsp
+2879 faces
+2571571 square feet [370306304.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2879 patches before subdivision
+zero area child patch
+83909 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5137059, max 987
+transfer lists:  39.2 megs
+>>>>>>> origin/master
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(1, 1, 1)
+<<<<<<< HEAD
+Build Patch/Sample Hash Table(s).....Done<0.0333 sec>
+=======
+Build Patch/Sample Hash Table(s).....Done<0.0603 sec>
+>>>>>>> origin/master
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+<<<<<<< HEAD
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                100/8192         1200/98304    ( 1.2%) 
+brushsides             602/65536        4816/524288   ( 0.9%) 
+planes                 400/65536        8000/1310720  ( 0.6%) 
+vertexes              3730/65536       44760/786432   ( 5.7%) 
+nodes                 1114/65536       35648/2097152  ( 1.7%) 
+texinfos               226/12288       16272/884736   ( 1.8%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2832/65536      158592/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              289/65536       16184/3670016  ( 0.4%) 
+leaves                1117/65536       35744/2097152  ( 1.7%) 
+leaffaces             2980/65536        5960/131072   ( 4.5%) 
+leafbrushes            820/65536        1640/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            13983/512000      55932/2048000  ( 2.7%) 
+edges                 7223/256000      28892/1024000  ( 2.8%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            253/32768        2530/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3231/65536        6462/131072   ( 4.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3897304/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       58574/16777216 ( 0.3%) 
+entdata               [variable]       15345/393216   ( 3.9%) 
+LDR ambient table     1117/65536        4468/262144   ( 1.7%) 
+HDR ambient table     1117/65536        4468/262144   ( 1.7%) 
+LDR leaf ambient       474/65536       13272/1835008  ( 0.7%) 
+HDR leaf ambient      1117/65536       31276/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3850     ( 0.0%) 
+pakfile               [variable]      105655/0        ( 0.0%) 
+physics               [variable]       36129/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7163
+Writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (36129 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 416 texinfos to 226
+Reduced 12 texdatas to 11 (263 bytes to 250)
+Writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+ 468 portalclusters
+1314 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1489 visible clusters (0.85%)
+Total clusters visible: 175471
+Average clusters visible: 374
+Building PAS...
+Average clusters audible: 467
+visdatasize:58574  compressed from 59904
+writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+20 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+2832 faces
+2562101 square feet [368942592.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2832 patches before subdivision
+zero area child patch
+82820 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5108200, max 978
+transfer lists:  39.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0330 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                100/8192         1200/98304    ( 1.2%) 
+brushsides             602/65536        4816/524288   ( 0.9%) 
+planes                 400/65536        8000/1310720  ( 0.6%) 
+vertexes              3730/65536       44760/786432   ( 5.7%) 
+nodes                 1114/65536       35648/2097152  ( 1.7%) 
+texinfos               226/12288       16272/884736   ( 1.8%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2832/65536      158592/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              289/65536       16184/3670016  ( 0.4%) 
+leaves                1117/65536       35744/2097152  ( 1.7%) 
+leaffaces             2980/65536        5960/131072   ( 4.5%) 
+leafbrushes            820/65536        1640/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            13983/512000      55932/2048000  ( 2.7%) 
+edges                 7223/256000      28892/1024000  ( 2.8%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            253/32768        2530/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3231/65536        6462/131072   ( 4.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3897304/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       58574/16777216 ( 0.3%) 
+entdata               [variable]       15345/393216   ( 3.9%) 
+LDR ambient table     1117/65536        4468/262144   ( 1.7%) 
+HDR ambient table     1117/65536        4468/262144   ( 1.7%) 
+LDR leaf ambient       474/65536       13272/1835008  ( 0.7%) 
+HDR leaf ambient      1117/65536       31276/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3850     ( 0.0%) 
+pakfile               [variable]      105655/0        ( 0.0%) 
+physics               [variable]       36129/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7163
+Writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (36393 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 419 texinfos to 132
+Reduced 12 texdatas to 9 (263 bytes to 195)
+Writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+ 350 portalclusters
+ 938 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 688 visible clusters (0.69%)
+Total clusters visible: 99164
+Average clusters visible: 283
+Building PAS...
+Average clusters audible: 350
+visdatasize:33544  compressed from 33600
+writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+2039 faces
+2528394 square feet [364088832.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2039 patches before subdivision
+77417 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4727896, max 939
+transfer lists:  36.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0308 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                100/8192         1200/98304    ( 1.2%) 
+brushsides             602/65536        4816/524288   ( 0.9%) 
+planes                 404/65536        8080/1310720  ( 0.6%) 
+vertexes              2722/65536       32664/786432   ( 4.2%) 
+nodes                  894/65536       28608/2097152  ( 1.4%) 
+texinfos               132/12288        9504/884736   ( 1.1%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2039/65536      114184/3670016  ( 3.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 897/65536       28704/2097152  ( 1.4%) 
+leaffaces             2123/65536        4246/131072   ( 3.2%) 
+leafbrushes           1240/65536        2480/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             9893/512000      39572/2048000  ( 1.9%) 
+edges                 5069/256000      20276/1024000  ( 2.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            192/32768        1920/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2481/65536        4962/131072   ( 3.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3315040/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       33544/16777216 ( 0.2%) 
+entdata               [variable]       15345/393216   ( 3.9%) 
+LDR ambient table      897/65536        3588/262144   ( 1.4%) 
+HDR ambient table      897/65536        3588/262144   ( 1.4%) 
+LDR leaf ambient       356/65536        9968/1835008  ( 0.5%) 
+HDR leaf ambient       897/65536       25116/1835008  ( 1.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3872     ( 0.0%) 
+pakfile               [variable]      105655/0        ( 0.0%) 
+physics               [variable]       36393/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5135
+Writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (36624 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 424 texinfos to 139
+Reduced 12 texdatas to 9 (263 bytes to 195)
+Writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+ 364 portalclusters
+1008 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 712 visible clusters (0.66%)
+Total clusters visible: 108352
+Average clusters visible: 297
+Building PAS...
+Average clusters audible: 364
+visdatasize:36390  compressed from 34944
+writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+12 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+2049 faces
+2527521 square feet [363963104.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2049 patches before subdivision
+77503 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4965238, max 939
+transfer lists:  37.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0313 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                101/8192         1212/98304    ( 1.2%) 
+brushsides             608/65536        4864/524288   ( 0.9%) 
+planes                 398/65536        7960/1310720  ( 0.6%) 
+vertexes              2724/65536       32688/786432   ( 4.2%) 
+nodes                  906/65536       28992/2097152  ( 1.4%) 
+texinfos               139/12288       10008/884736   ( 1.1%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2049/65536      114744/3670016  ( 3.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              176/65536        9856/3670016  ( 0.3%) 
+leaves                 908/65536       29056/2097152  ( 1.4%) 
+leaffaces             2140/65536        4280/131072   ( 3.3%) 
+leafbrushes           1243/65536        2486/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             9937/512000      39748/2048000  ( 1.9%) 
+edges                 5091/256000      20364/1024000  ( 2.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            195/32768        1950/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2517/65536        5034/131072   ( 3.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3312512/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       36390/16777216 ( 0.2%) 
+entdata               [variable]       14835/393216   ( 3.8%) 
+LDR ambient table      908/65536        3632/262144   ( 1.4%) 
+HDR ambient table      908/65536        3632/262144   ( 1.4%) 
+LDR leaf ambient       364/65536       10192/1835008  ( 0.6%) 
+HDR leaf ambient       908/65536       25424/1835008  ( 1.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3872     ( 0.0%) 
+pakfile               [variable]      105655/0        ( 0.0%) 
+physics               [variable]       36624/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5135
+Writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (36624 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 424 texinfos to 136
+Reduced 12 texdatas to 9 (263 bytes to 195)
+Writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+ 363 portalclusters
+ 969 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 546 visible clusters (0.53%)
+Total clusters visible: 103121
+Average clusters visible: 284
+Building PAS...
+Average clusters audible: 362
+visdatasize:36152  compressed from 34848
+writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+2082 faces
+2526610 square feet [363831904.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2082 patches before subdivision
+77630 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3860285, max 963
+transfer lists:  29.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0311 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                101/8192         1212/98304    ( 1.2%) 
+brushsides             608/65536        4864/524288   ( 0.9%) 
+planes                 402/65536        8040/1310720  ( 0.6%) 
+vertexes              2792/65536       33504/786432   ( 4.3%) 
+nodes                  916/65536       29312/2097152  ( 1.4%) 
+texinfos               136/12288        9792/884736   ( 1.1%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2082/65536      116592/3670016  ( 3.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              173/65536        9688/3670016  ( 0.3%) 
+leaves                 918/65536       29376/2097152  ( 1.4%) 
+leaffaces             2168/65536        4336/131072   ( 3.3%) 
+leafbrushes           1263/65536        2526/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            10111/512000      40444/2048000  ( 2.0%) 
+edges                 5184/256000      20736/1024000  ( 2.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            209/32768        2090/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2706/65536        5412/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3312740/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       36152/16777216 ( 0.2%) 
+entdata               [variable]       14835/393216   ( 3.8%) 
+LDR ambient table      918/65536        3672/262144   ( 1.4%) 
+HDR ambient table      918/65536        3672/262144   ( 1.4%) 
+LDR leaf ambient       363/65536       10164/1835008  ( 0.6%) 
+HDR leaf ambient       918/65536       25704/1835008  ( 1.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3872     ( 0.0%) 
+pakfile               [variable]      105655/0        ( 0.0%) 
+physics               [variable]       36624/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5255
+Writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (36624 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 424 texinfos to 135
+Reduced 12 texdatas to 9 (263 bytes to 195)
+Writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+ 362 portalclusters
+ 965 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 602 visible clusters (0.59%)
+Total clusters visible: 101476
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 361
+visdatasize:36013  compressed from 34752
+writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+2082 faces
+2526576 square feet [363826944.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2082 patches before subdivision
+77638 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3785461, max 941
+transfer lists:  28.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0316 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                101/8192         1212/98304    ( 1.2%) 
+brushsides             608/65536        4864/524288   ( 0.9%) 
+planes                 402/65536        8040/1310720  ( 0.6%) 
+vertexes              2791/65536       33492/786432   ( 4.3%) 
+nodes                  915/65536       29280/2097152  ( 1.4%) 
+texinfos               135/12288        9720/884736   ( 1.1%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2082/65536      116592/3670016  ( 3.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              172/65536        9632/3670016  ( 0.3%) 
+leaves                 917/65536       29344/2097152  ( 1.4%) 
+leaffaces             2165/65536        4330/131072   ( 3.3%) 
+leafbrushes           1263/65536        2526/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            10101/512000      40404/2048000  ( 2.0%) 
+edges                 5179/256000      20716/1024000  ( 2.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            212/32768        2120/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2745/65536        5490/131072   ( 4.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3314204/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       36013/16777216 ( 0.2%) 
+entdata               [variable]       14835/393216   ( 3.8%) 
+LDR ambient table      917/65536        3668/262144   ( 1.4%) 
+HDR ambient table      917/65536        3668/262144   ( 1.4%) 
+LDR leaf ambient       362/65536       10136/1835008  ( 0.6%) 
+HDR leaf ambient       917/65536       25676/1835008  ( 1.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3872     ( 0.0%) 
+pakfile               [variable]      105655/0        ( 0.0%) 
+physics               [variable]       36624/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5249
+Writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (37048 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 432 texinfos to 143
+Reduced 12 texdatas to 9 (263 bytes to 195)
+Writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+ 374 portalclusters
+ 996 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 567 visible clusters (0.56%)
+Total clusters visible: 101957
+Average clusters visible: 272
+Building PAS...
+Average clusters audible: 373
+visdatasize:37825  compressed from 35904
+writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+2109 faces
+2526977 square feet [363884800.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2109 patches before subdivision
+78315 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4209015, max 834
+transfer lists:  32.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0308 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                102/8192         1224/98304    ( 1.2%) 
+brushsides             614/65536        4912/524288   ( 0.9%) 
+planes                 418/65536        8360/1310720  ( 0.6%) 
+vertexes              2845/65536       34140/786432   ( 4.3%) 
+nodes                  933/65536       29856/2097152  ( 1.4%) 
+texinfos               143/12288       10296/884736   ( 1.2%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2109/65536      118104/3670016  ( 3.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              180/65536       10080/3670016  ( 0.3%) 
+leaves                 935/65536       29920/2097152  ( 1.4%) 
+leaffaces             2187/65536        4374/131072   ( 3.3%) 
+leafbrushes           1273/65536        2546/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            10289/512000      41156/2048000  ( 2.0%) 
+edges                 5275/256000      21100/1024000  ( 2.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            214/32768        2140/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2790/65536        5580/131072   ( 4.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3327668/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       37825/16777216 ( 0.2%) 
+entdata               [variable]       14835/393216   ( 3.8%) 
+LDR ambient table      935/65536        3740/262144   ( 1.4%) 
+HDR ambient table      935/65536        3740/262144   ( 1.4%) 
+LDR leaf ambient       374/65536       10472/1835008  ( 0.6%) 
+HDR leaf ambient       935/65536       26180/1835008  ( 1.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3872     ( 0.0%) 
+pakfile               [variable]      105655/0        ( 0.0%) 
+physics               [variable]       37048/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5351
+Writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (1088.00 -7360.00 1728.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27696 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 319 texinfos to 136
+Reduced 11 texdatas to 10 (250 bytes to 226)
+Writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+LoadPortals: couldn't read c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+No vis information, direct lighting only.
+4301 faces
+4360542 square feet [627918144.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0749 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 74/8192          888/98304    ( 0.9%) 
+brushsides             446/65536        3568/524288   ( 0.7%) 
+planes                 366/65536        7320/1310720  ( 0.6%) 
+vertexes              5501/65536       66012/786432   ( 8.4%) 
+nodes                 1640/65536       52480/2097152  ( 2.5%) 
+texinfos               136/12288        9792/884736   ( 1.1%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4301/65536      240856/3670016  ( 6.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              191/65536       10696/3670016  ( 0.3%) 
+leaves                1642/65536       52544/2097152  ( 2.5%) 
+leaffaces             4478/65536        8956/131072   ( 6.8%) 
+leafbrushes            937/65536        1874/131072   ( 1.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            20348/512000      81392/2048000  ( 4.0%) 
+edges                10764/256000      43056/1024000  ( 4.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            593/32768        5930/327680   ( 1.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7974/65536       15948/131072   (12.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     7394096/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       18269/393216   ( 4.6%) 
+LDR ambient table     1642/65536        6568/262144   ( 2.5%) 
+HDR ambient table     1642/65536        6568/262144   ( 2.5%) 
+LDR leaf ambient       880/65536       24640/1835008  ( 1.3%) 
+HDR leaf ambient      1642/65536       45976/1835008  ( 2.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2896     ( 0.0%) 
+pakfile               [variable]      105655/0        ( 0.0%) 
+physics               [variable]       27696/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10982
+Writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+7 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (37048 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 432 texinfos to 143
+Reduced 12 texdatas to 9 (263 bytes to 195)
+Writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+ 372 portalclusters
+ 989 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 801 visible clusters (0.76%)
+Total clusters visible: 105431
+Average clusters visible: 283
+Building PAS...
+Average clusters audible: 372
+visdatasize:37806  compressed from 35712
+writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+2091 faces
+2526247 square feet [363779584.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2091 patches before subdivision
+78535 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3912347, max 962
+transfer lists:  29.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0329 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                102/8192         1224/98304    ( 1.2%) 
+brushsides             614/65536        4912/524288   ( 0.9%) 
+planes                 418/65536        8360/1310720  ( 0.6%) 
+vertexes              2822/65536       33864/786432   ( 4.3%) 
+nodes                  929/65536       29728/2097152  ( 1.4%) 
+texinfos               143/12288       10296/884736   ( 1.2%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2091/65536      117096/3670016  ( 3.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              180/65536       10080/3670016  ( 0.3%) 
+leaves                 931/65536       29792/2097152  ( 1.4%) 
+leaffaces             2183/65536        4366/131072   ( 3.3%) 
+leafbrushes           1267/65536        2534/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            10207/512000      40828/2048000  ( 2.0%) 
+edges                 5234/256000      20936/1024000  ( 2.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            207/32768        2070/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2691/65536        5382/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3319520/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       37806/16777216 ( 0.2%) 
+entdata               [variable]       15544/393216   ( 4.0%) 
+LDR ambient table      931/65536        3724/262144   ( 1.4%) 
+HDR ambient table      931/65536        3724/262144   ( 1.4%) 
+LDR leaf ambient       372/65536       10416/1835008  ( 0.6%) 
+HDR leaf ambient       931/65536       26068/1835008  ( 1.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3872     ( 0.0%) 
+pakfile               [variable]      105655/0        ( 0.0%) 
+physics               [variable]       37048/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5305
+Writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (37080 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 432 texinfos to 143
+Reduced 12 texdatas to 9 (263 bytes to 195)
+Writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+ 368 portalclusters
+ 977 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 717 visible clusters (0.68%)
+Total clusters visible: 105563
+Average clusters visible: 286
+Building PAS...
+Average clusters audible: 368
+visdatasize:36710  compressed from 35328
+writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+2084 faces
+2526625 square feet [363833984.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2084 patches before subdivision
+78130 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3857597, max 960
+transfer lists:  29.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0312 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                102/8192         1224/98304    ( 1.2%) 
+brushsides             614/65536        4912/524288   ( 0.9%) 
+planes                 418/65536        8360/1310720  ( 0.6%) 
+vertexes              2805/65536       33660/786432   ( 4.3%) 
+nodes                  922/65536       29504/2097152  ( 1.4%) 
+texinfos               143/12288       10296/884736   ( 1.2%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2084/65536      116704/3670016  ( 3.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              180/65536       10080/3670016  ( 0.3%) 
+leaves                 924/65536       29568/2097152  ( 1.4%) 
+leaffaces             2176/65536        4352/131072   ( 3.3%) 
+leafbrushes           1264/65536        2528/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            10161/512000      40644/2048000  ( 2.0%) 
+edges                 5209/256000      20836/1024000  ( 2.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            203/32768        2030/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2640/65536        5280/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3319392/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       36710/16777216 ( 0.2%) 
+entdata               [variable]       27695/393216   ( 7.0%) 
+LDR ambient table      924/65536        3696/262144   ( 1.4%) 
+HDR ambient table      924/65536        3696/262144   ( 1.4%) 
+LDR leaf ambient       368/65536       10304/1835008  ( 0.6%) 
+HDR leaf ambient       924/65536       25872/1835008  ( 1.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3872     ( 0.0%) 
+pakfile               [variable]      105655/0        ( 0.0%) 
+physics               [variable]       37080/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5273
+Writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (37080 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 432 texinfos to 141
+Reduced 12 texdatas to 9 (263 bytes to 195)
+Writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+ 363 portalclusters
+ 970 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 781 visible clusters (0.76%)
+Total clusters visible: 103308
+Average clusters visible: 284
+Building PAS...
+Average clusters audible: 363
+visdatasize:36227  compressed from 34848
+writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+2080 faces
+2526730 square feet [363849216.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2080 patches before subdivision
+77826 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3776032, max 910
+transfer lists:  28.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0314 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                102/8192         1224/98304    ( 1.2%) 
+brushsides             614/65536        4912/524288   ( 0.9%) 
+planes                 412/65536        8240/1310720  ( 0.6%) 
+vertexes              2805/65536       33660/786432   ( 4.3%) 
+nodes                  918/65536       29376/2097152  ( 1.4%) 
+texinfos               141/12288       10152/884736   ( 1.1%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2080/65536      116480/3670016  ( 3.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              178/65536        9968/3670016  ( 0.3%) 
+leaves                 920/65536       29440/2097152  ( 1.4%) 
+leaffaces             2169/65536        4338/131072   ( 3.3%) 
+leafbrushes           1266/65536        2532/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            10120/512000      40480/2048000  ( 2.0%) 
+edges                 5198/256000      20792/1024000  ( 2.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            200/32768        2000/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2613/65536        5226/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3317972/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       36227/16777216 ( 0.2%) 
+entdata               [variable]       28206/393216   ( 7.2%) 
+LDR ambient table      920/65536        3680/262144   ( 1.4%) 
+HDR ambient table      920/65536        3680/262144   ( 1.4%) 
+LDR leaf ambient       363/65536       10164/1835008  ( 0.6%) 
+HDR leaf ambient       920/65536       25760/1835008  ( 1.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3872     ( 0.0%) 
+pakfile               [variable]      105655/0        ( 0.0%) 
+physics               [variable]       37080/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5248
+Writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (37080 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 432 texinfos to 141
+Reduced 12 texdatas to 9 (263 bytes to 195)
+Writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+ 363 portalclusters
+ 970 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 781 visible clusters (0.76%)
+Total clusters visible: 103308
+Average clusters visible: 284
+Building PAS...
+Average clusters audible: 363
+visdatasize:36227  compressed from 34848
+writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+2080 faces
+2526730 square feet [363849216.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2080 patches before subdivision
+77826 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3776032, max 910
+transfer lists:  28.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0319 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                102/8192         1224/98304    ( 1.2%) 
+brushsides             614/65536        4912/524288   ( 0.9%) 
+planes                 412/65536        8240/1310720  ( 0.6%) 
+vertexes              2805/65536       33660/786432   ( 4.3%) 
+nodes                  918/65536       29376/2097152  ( 1.4%) 
+texinfos               141/12288       10152/884736   ( 1.1%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2080/65536      116480/3670016  ( 3.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              178/65536        9968/3670016  ( 0.3%) 
+leaves                 920/65536       29440/2097152  ( 1.4%) 
+leaffaces             2169/65536        4338/131072   ( 3.3%) 
+leafbrushes           1266/65536        2532/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            10120/512000      40480/2048000  ( 2.0%) 
+edges                 5198/256000      20792/1024000  ( 2.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            200/32768        2000/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2613/65536        5226/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3317972/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       36227/16777216 ( 0.2%) 
+entdata               [variable]       28210/393216   ( 7.2%) 
+LDR ambient table      920/65536        3680/262144   ( 1.4%) 
+HDR ambient table      920/65536        3680/262144   ( 1.4%) 
+LDR leaf ambient       363/65536       10164/1835008  ( 0.6%) 
+HDR leaf ambient       920/65536       25760/1835008  ( 1.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3872     ( 0.0%) 
+pakfile               [variable]      105655/0        ( 0.0%) 
+physics               [variable]       37080/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5248
+Writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (37080 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 432 texinfos to 233
+Reduced 12 texdatas to 10 (263 bytes to 219)
+Writing C:\Users\Sachin\Documents\GitHub\CAR-GMod\maps\gtamap.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+reading c:\users\sachin\documents\github\car-gmod\maps\gtamap.prt
+ 490 portalclusters
+1364 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2373 visible clusters (1.35%)
+Total clusters visible: 176431
+Average clusters visible: 360
+Building PAS...
+Average clusters audible: 489
+visdatasize:64212  compressed from 62720
+writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+15 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+2885 faces
+2538644 square feet [365564768.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2885 patches before subdivision
+zero area child patch
+83537 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4444547, max 979
+transfer lists:  33.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0326 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                102/8192         1224/98304    ( 1.2%) 
+brushsides             614/65536        4912/524288   ( 0.9%) 
+planes                 412/65536        8240/1310720  ( 0.6%) 
+vertexes              3919/65536       47028/786432   ( 6.0%) 
+nodes                 1128/65536       36096/2097152  ( 1.7%) 
+texinfos               233/12288       16776/884736   ( 1.9%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2885/65536      161560/3670016  ( 4.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              291/65536       16296/3670016  ( 0.4%) 
+leaves                1130/65536       36160/2097152  ( 1.7%) 
+leaffaces             3067/65536        6134/131072   ( 4.7%) 
+leafbrushes            945/65536        1890/131072   ( 1.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            14322/512000      57288/2048000  ( 2.8%) 
+edges                 7424/256000      29696/1024000  ( 2.9%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            283/32768        2830/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3708/65536        7416/131072   ( 5.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3741868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       64212/16777216 ( 0.4%) 
+entdata               [variable]       28210/393216   ( 7.2%) 
+LDR ambient table     1130/65536        4520/262144   ( 1.7%) 
+HDR ambient table     1130/65536        4520/262144   ( 1.7%) 
+LDR leaf ambient       490/65536       13720/1835008  ( 0.7%) 
+HDR leaf ambient      1130/65536       31640/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3854     ( 0.0%) 
+pakfile               [variable]      105655/0        ( 0.0%) 
+physics               [variable]       37080/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7388
+Writing c:\users\sachin\documents\github\car-gmod\maps\gtamap.bsp
+10 seconds elapsed
+=======
+>>>>>>> origin/master
