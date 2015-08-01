@@ -4,7 +4,6 @@
 	"title"		"Cops and Robbers"
 	"maps"		"^car_"
 	"menusystem"	"1"
-	"workshopid"	""
 	
 	"settings"
 	{

@@ -1,0 +1,1 @@
+If you want to include backgrounds with your gamemode place them in gamemodes/<yourgamemode>/backgrounds/. They must all be jpg images.
