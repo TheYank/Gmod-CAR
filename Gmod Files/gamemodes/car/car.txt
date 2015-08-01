@@ -18,11 +18,19 @@
 	{
 		1
 		{
-			"name"		"ex_test"
-			"text"		"Steal the briefcase!"
-			"help"		"You're on your own"
+			"name"		"car_timelimit"
+			"text"		"Time limit in seconds"
+			"help"		"Time limit in seconds"
 			"type"		"numeric"
-			"default"	"1"
+			"default"	"300"
+		}
+		2
+		{
+			"name"		"car_maxrounds"
+			"text"		"Max rounds"
+			"help"		"Max rounds"
+			"type"		"numeric"
+			"default"	"10"
 		}
 	}
 }
