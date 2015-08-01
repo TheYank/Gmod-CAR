@@ -129,13 +129,6 @@ end
 copFlag:Spawn( )
 end
 
- function GM:InitPostEntity( )
-local robVan = ents.Create( "car_van" )
-robVan:SetPos(v:GetPos() + Vector ( 40, 40, 0))
-end
-robVan:Spawn( )
-end
-
 function GM:PlayerDeath( victim, inflictor, attacker )
 	local setpos = victim:GetPos()
 	local flagent = ents.FindByClass( 'ctf_flag' )[ 1 ]
