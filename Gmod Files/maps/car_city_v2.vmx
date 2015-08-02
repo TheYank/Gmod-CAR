@@ -15016,8 +15016,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "1"
-	"lowerleft" "4205.48 -4973 256.685"
-	"lowerright" "4205.48 -4585.04 256.685"
+	"lowerleft" "4205.48 -4973 256.684"
+	"lowerright" "4205.48 -4585.04 256.684"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -15274,8 +15274,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[2689.12 -4861.1 716.077]"
-		"look" "[2691.38 -4861.18 715.338]"
+		"position" "[3891.42 -4972.13 311.827]"
+		"look" "[3893.78 -4972.21 311.551]"
 	}
 }
 cordon
